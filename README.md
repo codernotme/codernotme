@@ -1,7 +1,10 @@
 # Aryan Bajpai - Portfolio README
 
 ![Banner](https://i.imgur.com/Sa4Llsn.png)
-![User Profile](https://imgur.com/jrTP9Zl)
+<p align="center">
+  <img src="https://imgur.com/jrTP9Zl" alt="Profile Image" width="200" height="200">
+</p>
+
 
 Hey there! 👋 I'm Aryan Bajpai, a 20-year-old tech enthusiast from India. I thrive on creating awesome things with a passion for web development, Python, C, Next.js, API development, and AI tools. In addition to my coding skills, I'm also adept at UI/UX design, graphic design, and MySQL.
 
