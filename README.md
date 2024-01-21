@@ -2,7 +2,7 @@
 
 ![Banner](https://i.imgur.com/Sa4Llsn.png)
 <p align="center">
-  <img src="https://i.imgur.com/jrTP9Zl.jpg" alt="Profile Image" width="200" height="200">
+  <img src="https://i.imgur.com/jrTP9Zl.jpg" alt="Profile Image" width="500" height="500">
 </p>
 
 
