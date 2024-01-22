@@ -1,5 +1,7 @@
 # Aryan Bajpai - **Tech Artisan**
-
+<p align="right">
+  <img src="https://icons8.com/icon/118553/github" alt="logo" width="50" height="50">
+</p>
 ![Starry Banner](https://i.imgur.com/Sa4Llsn.png)
 
 <p align="center">
@@ -44,9 +46,10 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=solid) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=solid) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=solid) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=solid) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=solid) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=solid) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=solid) ![API](https://img.shields.io/badge/API-009688?logo=api&logoColor=white&style=solid) ![AI](https://img.shields.io/badge/AI-4285F4?logo=ai&logoColor=white&style=solid) ![Design](https://img.shields.io/badge/Design-FF4088?logo=design&logoColor=white&style=solid) ![Graphic Design](https://img.shields.io/badge/Graphic_Design-7952B3?logo=adobe-illustrator&logoColor=white&style=solid) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=solid)
+![HTML5](https://img.icons8.com/ios/50/000000/html-5.png) ![CSS3](https://img.icons8.com/ios/50/000000/css3.png) ![JavaScript](https://img.icons8.com/ios/50/000000/javascript-logo.png) ![React](https://img.icons8.com/ios/50/000000/react.png) ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) ![Python](https://img.icons8.com/color/50/000000/python.png) ![Next.js](https://img.icons8.com/ios/50/000000/next-js.png) ![API](https://img.icons8.com/material-sharp/50/000000/api.png) ![AI](https://img.icons8.com/dusk/50/000000/chatgpt.png) ![Design](https://img.icons8.com/ios/50/000000/figma.png) ![Graphic Design](https://img.icons8.com/ios/50/000000/adobe-illustrator.png) ![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)
 
 </div>
+
 
 ## 🚀 Let's Connect
 
@@ -63,3 +66,5 @@ Feel free to reach out for collaborations, projects, or just to say hi! Let's cr
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=vue-dark&hide_border=false)
 
 Happy coding! 🚀✨
+
+
