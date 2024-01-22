@@ -51,6 +51,13 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
 
 </div>
 
+## ☁️ Cloud Harmony
+<div align="center">
+
+![AWS](https://img.icons8.com/color/64/000000/amazon-web-services.png) ![Google Cloud](https://img.icons8.com/color/64/000000/google-cloud-platform.png)
+
+</div>
+
 ## 🚀 Let's Connect
 
 - 🔗 [Portfolio](https://portxme.vercel.app/)
