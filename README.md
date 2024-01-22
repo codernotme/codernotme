@@ -1,7 +1,7 @@
 # Aryan Bajpai - Portfolio README
 
 ![Banner](https://i.imgur.com/Sa4Llsn.png)
-<p align="center">
+<p align="center" style="margin-top:0px;">
   <img src="https://i.imgur.com/jrTP9Zl.jpg" alt="Profile Image" width="500" height="500">
 </p>
 
