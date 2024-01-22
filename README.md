@@ -54,7 +54,6 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
   <img src="https://img.icons8.com/plasticine/64/000000/react.png" alt="React" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
   <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
   <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
-  <img src="https://icons8.com/icon/MWiBjkuHeMVq/next.js" alt="Nextjs" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
   <img src="https://img.icons8.com/color/64/000000/api.png" alt="API" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
   <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png" alt="AI" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
   <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Design" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
