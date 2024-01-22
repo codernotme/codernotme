@@ -43,12 +43,12 @@ I believe in the power of design to elevate user experiences. As a UI/UX and gra
 Whether it's building scalable backend systems or optimizing algorithms, I'm well-versed in Python, C++ and C.
 
 ## 💻 Tech Tapestry
-
 <div align="center">
 
-![HTML5](https://img.icons8.com/ios/50/000000/html-5.png) ![CSS3](https://img.icons8.com/ios/50/000000/css3.png) ![JavaScript](https://img.icons8.com/ios/50/000000/javascript-logo.png) ![React](https://img.icons8.com/ios/50/000000/react.png) ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) ![Python](https://img.icons8.com/color/50/000000/python.png) ![Next.js](https://img.icons8.com/ios/50/000000/next-js.png) ![API](https://img.icons8.com/material-sharp/50/000000/api.png) ![AI](https://img.icons8.com/dusk/50/000000/chatgpt.png) ![Design](https://img.icons8.com/ios/50/000000/figma.png) ![Graphic Design](https://img.icons8.com/ios/50/000000/adobe-illustrator.png) ![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/plasticine/48/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Next.js](https://img.icons8.com/color/48/000000/next-js.png) ![API](https://img.icons8.com/color/48/000000/api.png) ![AI](https://img.icons8.com/color/48/000000/artificial-intelligence.png) ![Design](https://img.icons8.com/color/48/000000/figma.png) ![Graphic Design](https://img.icons8.com/color/48/000000/adobe-illustrator.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
 
 </div>
+
 
 
 ## 🚀 Let's Connect
