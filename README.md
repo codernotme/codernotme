@@ -1,7 +1,9 @@
 # Aryan Bajpai - **Tech Artisan**
+
 <p align="right">
-  <img src="https://icons8.com/icon/118553/github" alt="logo" width="50" height="50">
+  <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub Logo" width="50" height="50">
 </p>
+
 ![Starry Banner](https://i.imgur.com/Sa4Llsn.png)
 
 <p align="center">
@@ -49,8 +51,6 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
 
 </div>
 
-
-
 ## 🚀 Let's Connect
 
 - 🔗 [Portfolio](https://portxme.vercel.app/)
@@ -66,5 +66,3 @@ Feel free to reach out for collaborations, projects, or just to say hi! Let's cr
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=vue-dark&hide_border=false)
 
 Happy coding! 🚀✨
-
-
