@@ -47,7 +47,7 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
 ## 💻 Tech Tapestry
 <div align="center">
 
-![HTML5](https://img.icons8.com/color/64/000000/html-5.png) ![CSS3](https://img.icons8.com/color/64/000000/css3.png) ![JavaScript](https://img.icons8.com/color/64/000000/javascript.png) ![React](https://img.icons8.com/plasticine/64/000000/react.png) ![Node.js](https://img.icons8.com/color/64/000000/nodejs.png) ![Python](https://img.icons8.com/color/64/000000/python.png) ![Next.js](https://img.icons8.com/cotton/64/000000/react.png) ![API](https://img.icons8.com/color/64/000000/api.png) ![AI](https://img.icons8.com/color/64/000000/artificial-intelligence.png) ![Design](https://img.icons8.com/color/64/000000/figma.png) ![Graphic Design](https://img.icons8.com/color/64/000000/adobe-illustrator.png) ![MySQL](https://img.icons8.com/color/64/000000/mysql.png)
+![HTML5](https://img.icons8.com/color/64/000000/html-5.png) ![CSS3](https://img.icons8.com/color/64/000000/css3.png) ![JavaScript](https://img.icons8.com/color/64/000000/javascript.png) ![React](https://img.icons8.com/plasticine/64/000000/react.png) ![Node.js](https://img.icons8.com/color/64/000000/nodejs.png) ![Python](https://img.icons8.com/color/64/000000/python.png) ![Next.js](https://img.icons8.com/color/64/000000/next-js.png) ![API](https://img.icons8.com/color/64/000000/api.png) ![AI](https://img.icons8.com/color/64/000000/artificial-intelligence.png) ![Design](https://img.icons8.com/color/64/000000/figma.png) ![Graphic Design](https://img.icons8.com/color/64/000000/adobe-illustrator.png) ![MySQL](https://img.icons8.com/color/64/000000/mysql.png)
 
 </div>
 
@@ -61,7 +61,6 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
 Feel free to reach out for collaborations, projects, or just to say hi! Let's create something amazing together. 🚀
 
 ## 📈 GitHub Enchantments
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codernotme&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=vue-dark&hide_border=false)
 
