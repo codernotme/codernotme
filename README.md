@@ -1,36 +1,35 @@
-# Aryan Bajpai - Portfolio README
+# Aryan Bajpai - **Tech Artisan**
 
-![Banner](https://i.imgur.com/Sa4Llsn.png)
+![Starry Banner](https://i.imgur.com/Sa4Llsn.png)
+
 <p align="center">
-  <img src="https://i.imgur.com/jrTP9Zl.jpg" alt="Profile Image" width="500" height="500">
+  <img src="https://i.imgur.com/jrTP9Zl.jpg" alt="Portrait" width="500" height="500">
 </p>
 
+Greetings! 👋 I'm Aryan Bajpai, a 20-year-old tech virtuoso hailing from India. My passion lies in the creation of extraordinary digital experiences, embracing a fusion of web development, Python, C, Next.js, API wizardry, and AI marvels. Beyond the realm of coding, I'm also a maestro in UI/UX design, graphic artistry, and MySQL craftsmanship.
 
-Hey there! 👋 I'm Aryan Bajpai, a 20-year-old tech enthusiast from India. I thrive on creating awesome things with a passion for web development, Python, C, Next.js, API development, and AI tools. In addition to my coding skills, I'm also adept at UI/UX design, graphic design, and MySQL.
+## 🚀 Artistry in Code
 
-## 🚀 About Me
-
-- 💻 Full Stack Developer
-- 🤖 AI Tool Specialist
-- 🎨 UI/UX Designer
-- 🎨 Graphic Designer
-- 📊 API Developer
+- 💻 Full Stack Sorcerer
+- 🤖 AI Alchemist
+- 🎨 UI/UX Artisan
+- 📊 API Enchanter
 - 🐍 Pythonista
 
-## 🌐 Web Development
+## 🌐 Web Symphony
 
-I specialize in crafting robust and user-friendly web applications. My expertise includes:
+I specialize in conjuring robust and user-centric web applications, casting spells with:
 
 - HTML5, CSS3, JavaScript
 - React.js, Next.js
 - Node.js, Express
 - MongoDB, MySQL
 
-## 🧠 AI Expertise
+## 🧠 AI Wizardry
 
-I'm not just a coder; I'm an AI enthusiast! My expertise extends to crafting cutting-edge AI tools, ranging from powerful chatbots like ChatGPT to a myriad of other applications in natural language processing, computer vision, and beyond. Let's turn visionary ideas into intelligent solutions! 🤖✨
+Not just a coder, but an AI enthusiast! My expertise extends to crafting cutting-edge AI tools, from potent chatbots like ChatGPT to applications in natural language processing, computer vision, and beyond. Let's transform visionary ideas into sentient solutions! 🤖✨
 
-## 🎨 Design
+## 🎨 Design Elegance
 
 I believe in the power of design to elevate user experiences. As a UI/UX and graphic designer, I bring creativity and functionality together.
 
@@ -41,9 +40,13 @@ I believe in the power of design to elevate user experiences. As a UI/UX and gra
 
 Whether it's building scalable backend systems or optimizing algorithms, I'm well-versed in Python, C++ and C.
 
-## 💻 Tech Stack
+## 💻 Tech Tapestry
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![API](https://img.shields.io/badge/API-009688?logo=api&logoColor=white) ![AI](https://img.shields.io/badge/AI-4285F4?logo=ai&logoColor=white) ![Design](https://img.shields.io/badge/Design-FF4088?logo=design&logoColor=white) ![Graphic Design](https://img.shields.io/badge/Graphic_Design-7952B3?logo=adobe-illustrator&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=solid) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=solid) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=solid) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=solid) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=solid) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=solid) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=solid) ![API](https://img.shields.io/badge/API-009688?logo=api&logoColor=white&style=solid) ![AI](https://img.shields.io/badge/AI-4285F4?logo=ai&logoColor=white&style=solid) ![Design](https://img.shields.io/badge/Design-FF4088?logo=design&logoColor=white&style=solid) ![Graphic Design](https://img.shields.io/badge/Graphic_Design-7952B3?logo=adobe-illustrator&logoColor=white&style=solid) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=solid)
+
+</div>
 
 ## 🚀 Let's Connect
 
@@ -54,7 +57,7 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
 
 Feel free to reach out for collaborations, projects, or just to say hi! Let's create something amazing together. 🚀
 
-## 📈 GitHub Stats
+## 📈 GitHub Enchantments
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codernotme&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=vue-dark&hide_border=false)
