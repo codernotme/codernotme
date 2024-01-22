@@ -45,18 +45,33 @@ I believe in the power of design to elevate user experiences. As a UI/UX and gra
 Whether it's building scalable backend systems or optimizing algorithms, I'm well-versed in Python, C++ and C.
 
 ## 💻 Tech Tapestry
-<div align="center">
 
-![HTML5](https://img.icons8.com/color/64/000000/html-5.png) ![CSS3](https://img.icons8.com/color/64/000000/css3.png) ![JavaScript](https://img.icons8.com/color/64/000000/javascript.png) ![React](https://img.icons8.com/plasticine/64/000000/react.png) ![Node.js](https://img.icons8.com/color/64/000000/nodejs.png) ![Python](https://img.icons8.com/color/64/000000/python.png) ![Next.js](https://icons8.com/icon/MWiBjkuHeMVq/next.js.png) ![API](https://img.icons8.com/color/64/000000/api.png) ![AI](https://img.icons8.com/color/64/000000/artificial-intelligence.png) ![Design](https://img.icons8.com/color/64/000000/figma.png) ![Graphic Design](https://img.icons8.com/color/64/000000/adobe-illustrator.png) ![MySQL](https://img.icons8.com/color/64/000000/mysql.png)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; width: 100%; max-width: 600px; margin: auto; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; background-color: #f5f5f5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/plasticine/64/000000/react.png" alt="React" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://icons8.com/icon/MWiBjkuHeMVq/next.js" alt="Nextjs" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/api.png" alt="API" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png" alt="AI" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Design" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/adobe-illustrator.png" alt="Graphic Design" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/mysql.png" alt="MySQL" style="margin: 10px; filter: grayscale(100%); transition: filter 0.3s;">
 
 </div>
 
 ## ☁️ Cloud Harmony
+
 <div align="center">
 
-![AWS](https://img.icons8.com/color/64/000000/amazon-web-services.png) ![Google Cloud](https://img.icons8.com/color/64/000000/google-cloud-platform.png)
+  <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" style="margin: 20px; filter: grayscale(100%); transition: filter 0.3s;">
+  <img src="https://img.icons8.com/color/64/000000/google-cloud-platform.png" alt="Google Cloud" style="margin: 20px; filter: grayscale(100%); transition: filter 0.3s;">
 
 </div>
+
 
 ## 🚀 Let's Connect
 
