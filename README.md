@@ -74,7 +74,7 @@ Whether it's building scalable backend systems or optimizing algorithms, I'm wel
 
 ## 🚀 Let's Connect
 
-- 🔗 [Portfolio](https://portxme.vercel.app/)
+- 🔗 [Portfolio](https://portfolioxaryan.vercel.app/)
 - 🐦 [Twitter](https://twitter.com/codernotme)
 - 📷 [LinkedIn](https://www.linkedin.com/in/codernotme/)
 - 📧 Email: codernotme@gmail.com
