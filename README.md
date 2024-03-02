@@ -4,10 +4,10 @@
   <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub Logo" width="50" height="50">
 </p>
 
-![Starry Banner](https://i.imgur.com/Sa4Llsn.png)
+![Starry Banner](Banner.png)
 
 <p align="center">
-  <img src="https://i.imgur.com/jrTP9Zl.jpg" alt="Portrait" width="500" height="500">
+  <img src="3dmenft.png" alt="Portrait" width="500" height="500">
 </p>
 
 Greetings! 👋 I'm Aryan Bajpai, a 20-year-old tech virtuoso hailing from India. My passion lies in the creation of extraordinary digital experiences, embracing a fusion of web development, Python, C, Next.js, API wizardry, and AI marvels. Beyond the realm of coding, I'm also a maestro in UI/UX design, graphic artistry, and MySQL craftsmanship.
