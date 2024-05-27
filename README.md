@@ -8,7 +8,7 @@
   <img src="3dmenft.png" alt="Portrait" width="250" height="250">
 </p>
 
-Greetings! 👋 I'm Aryan Bajpai, a passionate tech enthusiast from India, dedicated to creating extraordinary digital experiences. With a diverse skill set in web development, AI, and software engineering, I strive to build innovative applications and contribute to dynamic, growth-oriented teams.
+Hey! 👋 I'm Aryan Bajpai, a passionate tech enthusiast from India, dedicated to creating extraordinary digital experiences. With a diverse skill set in web development, AI, and software engineering, I strive to build innovative applications and contribute to dynamic, growth-oriented teams.
 
 ## 🚀 Expertise
 
@@ -85,9 +85,9 @@ Internshala, June 2023 - August 2023
 ## 🚀 Let's Connect
 
 - 🔗 [Portfolio](https://portfolioxaryan.vercel.app/)
-- 🐦 [Twitter](https://twitter.com/codernotme)
+- 🐦 [Twitter](https://x.com/codernotme)
 - 📷 [LinkedIn](https://www.linkedin.com/in/codernotme/)
-- 📧 Email: aryanbajpai@gmail.com
+- 📧 Email: aryanbajpai2411@gmail.com
 
 Feel free to reach out for collaborations, projects, or just to say hi! Let's create something amazing together. 🚀
 
