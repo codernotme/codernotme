@@ -1,106 +1,34 @@
-# Aryan Bajpai
+# 💫 About Me:
+Web Developer || AI Enthusiast
 
-<p align="right">
-  <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub Logo" width="50" height="50">
-</p>
+Crafting innovative web solutions with a passion for Python and AI. From frontend design to backend development, I'm committed to delivering exceptional digital experiences.
 
-<p align="center">
-  <img src="3dmenft.png" alt="Portrait" width="250" height="250">
-</p>
+Current Project: ECHO
 
-Hey! 👋 I'm Aryan Bajpai, a passionate tech enthusiast from India, dedicated to creating extraordinary digital experiences. With a diverse skill set in web development, AI, and software engineering, I strive to build innovative applications and contribute to dynamic, growth-oriented teams.
+Seeking collaborative opportunities and new projects to push the boundaries of web technology and AI.
 
-## 🚀 Expertise
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/codernotme) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codernotme) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/No-Watercress-326) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codernotme) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/codernotme) 
 
-<ul>
-  <li>💻 <span class="hover-underline-animation">Full Stack Developer</span></li>
-  <li>🤖 <span class="hover-underline-animation">AI Enthusiast</span></li>
-  <li>🎨 <span class="hover-underline-animation">UI/UX Designer</span></li>
-  <li>📊 <span class="hover-underline-animation">API Specialist</span></li>
-  <li>🐍 <span class="hover-underline-animation">Python Programmer</span></li>
-</ul>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codernotme&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codernotme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Web Development
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I specialize in building robust, user-centric web applications using:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codernotme&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  - **Frontend**: <img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML5"> HTML5, <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS3"> CSS3, <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript"> JavaScript, <img src="https://img.icons8.com/plasticine/24/000000/react.png" alt="React"> React.js, <img src="https://img.icons8.com/color/24/000000/nextjs.png" alt="Next.js"> Next.js
-  - **Backend**: <img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js"> Node.js, <img src="https://img.icons8.com/color/24/000000/express.png" alt="Express"> Express, <img src="https://img.icons8.com/color/24/000000/django.png" alt="Django"> Django
-  - **Databases**: <img src="https://img.icons8.com/color/24/000000/mongodb.png" alt="MongoDB"> MongoDB, <img src="https://img.icons8.com/color/24/000000/mysql.png" alt="MySQL"> MySQL</li>
+---
+[![](https://visitcount.itsvg.in/api?id=codernotme&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 AI and Machine Learning
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/outtaurreach?country.x=IN&locale.x=en_GB) 
 
-With a keen interest in AI, I develop intelligent solutions ranging from chatbots to applications in natural language processing and computer vision.
-
-## 🎨 Design and Creativity
-
-Combining creativity with functionality, I excel in UI/UX design and graphic design using:
-
-<ul>
-  <li><img src="https://img.icons8.com/color/24/000000/figma.png" alt="Figma"> Figma, <img src="https://img.icons8.com/color/24/000000/adobe-xd.png" alt="Adobe XD"> Adobe XD</li>
-  <li><img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png" alt="Photoshop"> Photoshop, <img src="https://img.icons8.com/color/24/000000/adobe-illustrator.png" alt="Illustrator"> Illustrator</li>
-</ul>
-
-## 💻 Programming Skills
-
-Proficient in Python, C++, and C, I develop scalable backend systems and optimize algorithms.
-
-## 🌟 Technical Skills
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; width: 100%; max-width: 600px; margin: auto; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; background-color: #f5f5f5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/nextjs.png" alt="NextJs" class="tech-icon">
-  <img src="https://img.icons8.com/plasticine/64/000000/react.png" alt="React" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/api.png" alt="API" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png" alt="AI" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Figma" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/adobe-illustrator.png" alt="Adobe Illustrator" class="tech-icon">
-  <img src="https://img.icons8.com/color/64/000000/mysql.png" alt="MySQL" class="tech-icon">
-</div>
-
-## ☁️ Cloud Services
-
-<div align="center">
-  <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" class="cloud-icon">
-  <img src="https://img.icons8.com/color/64/000000/google-cloud-platform.png" alt="Google Cloud" class="cloud-icon">
-</div>
-
-## 💼 Work Experience
-
-**Internshala Student Partner**  
-Internshala, June 2023 - August 2023  
-- Contributed to business marketing by promoting deals and products through various marketing activities.
-- Strategically planned and executed marketing campaigns, convincing peers and college colleagues to engage with products and deals.
-
-## 📜 Certifications
-
-- **AI for India 2.0** by GUVI in collaboration with Skill India Digital
-- **Python Certificate** by GUVI
-- **5-Star Problem Solving** on HackerRank
-- **Infosys Springboard Certification**: HTML5, CSS3, Twitter Bootstrap, JavaScript, and Python Programming
-
-## 🚀 Let's Connect
-
-- 🔗 [Portfolio](https://portfolioxaryan.vercel.app/)
-- 🐦 [Twitter](https://x.com/codernotme)
-- 📷 [LinkedIn](https://www.linkedin.com/in/codernotme/)
-- 📧 Email: aryanbajpai2411@gmail.com
-
-Feel free to reach out for collaborations, projects, or just to say hi! Let's create something amazing together. 🚀
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codernotme&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=vue-dark&hide_border=false)
-
-## 🎵 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codernotme&theme=onedark)
-
-## 🌟 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codernotme&theme=vue-dark&layout=compact)
+---
+## Check out my portfolio
+[Codernotme](https://codernotme.vercel.app/)
