@@ -3,7 +3,7 @@ Web Developer || AI Enthusiast
 
 Crafting innovative web solutions with a passion for Python and AI. From frontend design to backend development, I'm committed to delivering exceptional digital experiences.
 
-Current Project: ECHO
+Current Project:
 
 Seeking collaborative opportunities and new projects to push the boundaries of web technology and AI.
 
