@@ -117,10 +117,3 @@
 </div>
 
 ---
-
-## Check out my portfolio
-<div align="center">
-  <a href="https://codernotme.vercel.app/" style="font-size: 18px; font-weight: bold; color: #4A90E2;">Codernotme</a>
-  <br>
-  <img src="/assets/img.png" alt="Portfolio Preview" width="600" style="border: 2px solid #4A90E2; border-radius: 10px; margin-top: 10px;" />
-</div>
