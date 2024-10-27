@@ -77,9 +77,7 @@
   ![GitHub](https://skillicons.dev/icons?i=github)
   ![Postman](https://skillicons.dev/icons?i=postman)
   ![Figma](https://skillicons.dev/icons?i=figma)
-  ![Canva](https://skillicons.dev/icons?i=canva)
-  ![Adobe](https://skillicons.dev/icons?i=adobe)
-
+  ![Gitlab](https://skillicons.dev/icons?i=gitlab)
 </div>
 
 ---
