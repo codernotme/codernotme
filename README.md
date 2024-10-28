@@ -44,9 +44,6 @@
   ![Node.js](https://skillicons.dev/icons?i=nodejs)
   ![Express](https://skillicons.dev/icons?i=express)
   ![Django](https://skillicons.dev/icons?i=django)
-  ![Socket.io](https://skillicons.dev/icons?i=socketio)
-  ![JWT](https://skillicons.dev/icons?i=jwt)
-
 </div>
 
 ### Cloud & DevOps:
