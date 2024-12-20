@@ -7,7 +7,6 @@
   Passionate about creating seamless and powerful web solutions with a focus on frontend elegance and backend efficiency. Leveraging Python and AI, I aim to push the limits of web technologies to build memorable digital experiences.
 </p>
 
-- 🌱 **Current Project**: [Algomitra](https://github.com/codernotme/AlgoMitra) + 2
 - 🤝 **Open for Collaborations**: Let's connect and build impactful solutions together!
 
 ---
