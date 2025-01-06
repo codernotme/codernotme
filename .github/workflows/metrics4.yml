@@ -2,10 +2,15 @@
 name: Notable Contributions
 on:
   # Schedule updates (At minute 0 past every 12th hour)
-  schedule: [{ cron: "0 */12 * * *" }]
+  schedule:
+    - cron: "0 */12 * * *"
   # Lines below let you run workflow manually with each commit
   workflow_dispatch:
-  push: { branches: ["master", "main", "metrics"] }
+  push:
+    branches:
+      - master
+      - main
+      - metrics
 jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/notable/README.md
   notable-contributions-metrics:
