@@ -16,6 +16,8 @@ jobs:
   code-lines-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.plugin.code.lines.svg
