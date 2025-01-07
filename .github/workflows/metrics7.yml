@@ -15,6 +15,8 @@ jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/discussions/README.md
   discussions-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
