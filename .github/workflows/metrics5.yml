@@ -15,6 +15,10 @@ jobs:
   language-activity-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Check runner compatibility
+        run: |
+          echo "Checking runner compatibility..."
+          uname -a
       - name: Check out repository
         uses: actions/checkout@v2
       - uses: lowlighter/metrics@latest

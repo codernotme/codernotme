@@ -15,6 +15,8 @@ jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/README.md
   follow-up-pr-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
