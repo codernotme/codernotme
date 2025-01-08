@@ -24,7 +24,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.plugin.languages.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }} # Ensure this token has the necessary permissions
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
