@@ -1,18 +1,5 @@
 <img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwODVuaHA2ZWphNHF0bXd4ajRoZHlmYmhyMWxjeGdtODB0NjY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9USGRzPcxz9E6gknjL/giphy.webp" width="25%" style="margin-right: 10px;">
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwODVuaHA2ZWphNHF0bXd4ajRoZHlmYmhyMWxjeGdtODB0NjY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9USGRzPcxz9E6gknjL/giphy.webp" width="25%" style="margin-left: 10px;">
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- Aryan's Icon -->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<!--<div style="clear: both;">
-    <div align="center">
-        <a href="https://github.com/codernotme">
-            <img src="codernotme.png" height="400" alt="Aryan's Icon" />
-        </a>
-    </div>
-</div>-->
-
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- Aryan's Profile Bar -->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
