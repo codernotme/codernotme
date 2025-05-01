@@ -227,22 +227,6 @@
 
 <hr>
 
-<!-- About me  -->
-
-```js
-AboutMe = {
-  bio: "Passionate about creating seamless and powerful web solutions, focusing on frontend elegance and backend efficiency.",
-  mission:
-    "Leveraging Python and AI, I aim to push the boundaries of web technologies to build memorable digital experiences.",
-  expertise:
-    "With a strong foundation in Next.js, Golang, and DevOps, I seamlessly blend creativity and functionality to craft innovative solutions.",
-  identity:
-    "I am more than a student; I am a creator, a problem solver, and a developer with a drive to make an impact.",
-  callToAction:
-    "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨",
-};
-```
-
 <hr>
 <div align="center">
 
