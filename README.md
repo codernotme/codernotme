@@ -33,7 +33,6 @@
     </samp>
 </h3>
 
-<!-- Search -->
 <p align="center"> 
     <samp>
         <a href="https://www.linkedin.com/in/codernotme/">「 Connect with me 」</a>
