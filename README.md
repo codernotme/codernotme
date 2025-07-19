@@ -163,7 +163,7 @@
   <!-- Live Projects Counter -->
   <h3>📊 Project Statistics</h3>
   <p>
-    <img src="https://img.shields.io/badge/Active_Projects-8-00d4ff?style=for-the-badge&logo=github&logoColor=white" alt="Active Projects"/>
+    <img src="https://img.shields.io/badge/Active_Projects-10-00d4ff?style=for-the-badge&logo=github&logoColor=white" alt="Active Projects"/>
     <img src="https://img.shields.io/badge/Client_Projects-5-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Client Projects"/>
     <img src="https://img.shields.io/badge/Open_Source-12-orange?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source"/>
     <img src="https://img.shields.io/badge/Startup_MVPs-3-purple?style=for-the-badge&logo=rocket&logoColor=white" alt="Startup MVPs"/>
