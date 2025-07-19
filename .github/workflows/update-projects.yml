@@ -1,0 +1,46 @@
+name: Update Dynamic Projects
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Update project statistics
+      run: |
+        # Get repository count
+        REPO_COUNT=$(curl -s "https://api.github.com/users/codernotme/repos" | jq length)
+        
+        # Get public repos with recent activity
+        ACTIVE_REPOS=$(curl -s "https://api.github.com/users/codernotme/repos?sort=updated&per_page=10" | jq length)
+        
+        # Update README with dynamic content
+        echo "Repository count: $REPO_COUNT"
+        echo "Active repositories: $ACTIVE_REPOS"
+        
+        # Create dynamic stats (you can expand this with more API calls)
+        sed -i "s/Active_Projects-[0-9]*/Active_Projects-$ACTIVE_REPOS/g" README.md
+        
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --staged --quiet || git commit -m "🔄 Auto-update project statistics" -m "Updated via GitHub Actions"
+        git push
