@@ -1,66 +1,76 @@
-<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwODVuaHA2ZWphNHF0bXd4ajRoZHlmYmhyMWxjeGdtODB0NjY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9USGRzPcxz9E6gknjL/giphy.webp" width="25%" style="margin-right: 10px;">
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwODVuaHA2ZWphNHF0bXd4ajRoZHlmYmhyMWxjeGdtODB0NjY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9USGRzPcxz9E6gknjL/giphy.webp" width="25%" style="margin-left: 10px;">
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- Aryan's Icon -->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<div style="clear: both;">
-    <div align="center">
-        <a href="https://github.com/codernotme">
-            <img src="codernotme.png" height="400" alt="Aryan's Icon" />
-        </a>
-    </div>
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Bajpai&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=62"/>
 </div>
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- Aryan's Profile Bar -->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Profile Image with enhanced styling - GitHub Avatar -->
+<div align="center">
+  <img src="https://github.com/codernotme.png" alt="Aryan Bajpai" width="200" height="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 30px rgba(0, 212, 255, 0.6); transition: transform 0.3s ease;"/>
+</div>
 
-<div align="center" style="margin: 20px 0;">
-    <a href="https://codernotme.me" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="http://tacklestudioz.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tackle_Studioz-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Tackle Studioz"/>
-    </a>
-  </p>
-  
-  <!-- Coding Platforms -->
+<br>
+
+<!-- Enhanced Animated Greeting -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=👋+Hey!+I'm+Aryan+Bajpai;🚀+Full+Stack+Developer;🤖+AI+%26+ML+Enthusiast;💼+Founder+%40+Tackle+Studioz;💡+Problem+Solver+%26+Innovator;📚+Lifelong+Learner" alt="Typing SVG" />
+</div>
+
+<!-- Enhanced Profile Stats with multiple widgets -->
+<div align="center">
+  <a href="https://codernotme.me" target="_blank">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=codernotme&data=followers,repositories,stars,commits&theme=dark&border_radius=10" alt="GitHub WidgetBox" width="85%" />
+  </a>
+</div>
+
+<br>
+
+<!-- Real-time GitHub Stats Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codernotme&theme=tokyonight" alt="Profile Summary" width="80%"/>
+</div>
+
+<!-- Enhanced Social Connect Section -->
+<div align="center">
+  <h3>🌐 Let's Connect & Build Something Amazing Together!</h3>
   <p>
-    <a href="https://leetcode.com/u/codernotme/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <a href="https://www.linkedin.com/in/codernotme/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
     </a>
-    <a href="https://www.hackerrank.com/profile/cs_2201641520203" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    <a href="mailto:aryanbajpai2411@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://codeforces.com/profile/codernotme" target="_blank">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-    </a>
-    <a href="https://discord.gg/bzuk2KVpQx" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-  </p>
-  
-  <!-- Blog Platforms -->
-  <p>
     <a href="https://dev.to/codernotme" target="_blank">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
     </a>
     <a href="https://hashnode.com/@codernotme" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
     </a>
+    <a href="https://codernotme.me" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="http://tacklestudioz.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tackle_Studioz-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Tackle Studioz"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/cs_2201641520203" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    </a>
+    <a href="https://leetcode.com/u/codernotme/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
     <a href="https://twitter.com/codernotme" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
+    <a href="https://discord.gg/codernotme" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
   </p>
-  
-  <!-- Profile Stats -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=codernotme&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/codernotme?label=Followers&style=for-the-badge&color=00d4ff&labelColor=000000" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/codernotme?label=Total%20Stars&style=for-the-badge&color=00d4ff&labelColor=000000" alt="GitHub Stars" />
-  </p>
+</div>
+
+<!-- Enhanced Visitor Counter with more stats -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codernotme&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/codernotme?label=Followers&style=for-the-badge&color=00d4ff&labelColor=000000" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/codernotme?label=Total%20Stars&style=for-the-badge&color=00d4ff&labelColor=000000" alt="GitHub Stars" />
 </div>
 
 <!-- Divider -->
@@ -107,21 +117,59 @@
   </table>
 </div>
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- Intro -->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+### 📊 Quick Stats
+```javascript
+const aryan = {
+    name: "Aryan Bajpai",
+    role: "Full Stack Developer & Entrepreneur",
+    location: "India 🇮🇳",
+    company: "Tackle Studioz",
+    languages: ["JavaScript", "Python", "TypeScript", "C++"],
+    frameworks: ["React", "Next.js", "Django", "Express.js"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    tools: ["Git", "Docker", "AWS", "VS Code"],
+    currentFocus: "Building scalable web applications with modern tech stack",
+    startup: "Tackle Studioz - Innovative Tech Solutions",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
 
-<h3 align="center">
-    <samp>
-        &gt; Hey There! I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/codernotme/">Aryan</a></b>
-    </samp>
-</h3>
+</details>
 
-<!-- Search -->
-<p align="center"> 
-    <samp>
-        <a href="https://www.linkedin.com/in/codernotme/">「 Connect with me 」</a>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Startup & Company Section -->
+<h2 align="center">🚀 My Startup Journey</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏢 Tackle Studioz</h3>
+        <a href="http://tacklestudioz.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Website-00d4ff?style=for-the-badge&logo=globe&logoColor=white" alt="Tackle Studioz"/>
+        </a>
+        <p><i>Innovative Tech Solutions & Digital Transformation</i></p>
+        <ul style="text-align: left;">
+          <li>🎯 <b>Mission:</b> Empowering businesses with cutting-edge technology</li>
+          <li>💡 <b>Focus:</b> Web Development, AI Integration, Cloud Solutions</li>
+          <li>🌟 <b>Vision:</b> Making technology accessible and impactful</li>
+          <li>🎉 <b>Founded:</b> 2023 - Growing strong!</li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+        <h3>👨‍💼 My Role</h3>
+        <p><b>🎖️ Founder & Lead Developer</b></p>
+        <br>
+        <p>🔥 <b>What I Do:</b></p>
+        <ul style="text-align: left;">
+          <li>💻 Lead technical architecture decisions</li>
+          <li>👥 Manage development team</li>
+          <li>🎯 Drive product strategy & vision</li>
+          <li>🤝 Client relations & project delivery</li>
+          <li>📈 Business development & growth</li>
+        </ul>
         <br>
         <a href="https://codernotme.me" target="_blank">
           <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
@@ -207,59 +255,45 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Tech Stack Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"/> 
-  Tech Stack & Tools Arsenal 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"/>
-</h2>
+<!-- Tech Stack Section with Enhanced Visuals -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🛠️+My+Digital+Toolbox;⚡+Technologies+I+Love+Working+With;🚀+Always+Exploring+New+Stacks" alt="Tech Intro" />
-  
-  <br><br>
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,go&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,go" alt="Programming Languages" />
 </p>
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap,sass,materialui&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap,sass,materialui" alt="Frontend Technologies" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,nestjs&theme=dark" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,nestjs" alt="Backend Technologies" />
 </p>
 
 ### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,aws,gcp,azure,docker,kubernetes&theme=dark" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,aws,gcp,azure,docker,kubernetes" alt="Databases & Cloud" />
 </p>
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,postman,linux,windows,vercel&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,postman,linux,windows,vercel" alt="Tools" />
 </p>
 
-### 🎯 Currently Learning
+### 🎯 Current Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,rust,graphql,prisma,supabase&theme=dark" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,rust,graphql,prisma,supabase" alt="Learning" />
 </p>
 
-<!-- Animated Tech GIFs -->
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="React"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" alt="React"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40" alt="Node"/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" alt="Coder"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" alt="Git"/>
 </div>
 
 <!-- Skill Progress Bars -->
+<div align="center">
 <h3>📊 Skill Proficiency</h3>
 
 | Technology | Proficiency |
@@ -278,26 +312,20 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Streamlined GitHub Analytics -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-  📊 GitHub Analytics
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-</h2>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Main Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codernotme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codernotme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codernotme&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-  
-  <br><br>
-  
-  <!-- Streak Stats -->
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="70%"/>
-  
-  <br><br>
-  
-  <!-- Activity Graph -->
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codernotme&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 </div>
 
@@ -403,138 +431,74 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Coding Profiles & Competitive Programming -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Code"/>
-  🏆 Competitive Programming & Coding Mastery 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Code"/>
-</h2>
+<h2 align="center">🏆 Competitive Programming & Coding Profiles</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=700&lines=🔥+Passionate+problem+solver;🎯+800%2B+algorithms+conquered;🏆+Multiple+platform+champion;⚡+Always+pushing+boundaries" alt="CP Intro" />
+  <p><i>🔥 Passionate about solving complex problems and competitive programming!</i></p>
   
-  <br><br>
-  
-  <!-- Enhanced Platform Badges with Icons -->
-  <h3>🎯 Coding Platforms & Achievements</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/u/codernotme/" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-        </a>
-        <br><sub>🥇 Algorithm Master</sub>
-      </td>
-      <td align="center">
-        <a href="https://www.hackerrank.com/profile/cs_2201641520203" target="_blank">
-          <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-        </a>
-        <br><sub>⭐ 5-Star Problem Solver</sub>
-      </td>
-      <td align="center">
-        <a href="https://codeforces.com/profile/codernotme" target="_blank">
-          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-        </a>
-        <br><sub>🎖️ Contest Specialist</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.codechef.com/users/codernotme" target="_blank">
-          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-        </a>
-        <br><sub>👨‍🍳 3-Star Cook</sub>
-      </td>
-      <td align="center">
-        <a href="https://atcoder.jp/users/codernotme" target="_blank">
-          <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
-        </a>
-        <br><sub>🎌 Rising Competitor</sub>
-      </td>
-      <td align="center">
-        <a href="https://www.geeksforgeeks.org/user/codernotme/" target="_blank">
-          <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-        </a>
-        <br><sub>🤓 Knowledge Seeker</sub>
-      </td>
-    </tr>
-  </table>
+  <!-- Platform Badges -->
+  <h3>🎯 Coding Platforms</h3>
+  <p>
+    <a href="https://leetcode.com/u/codernotme/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/cs_2201641520203" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    </a>
+    <a href="https://codeforces.com/profile/codernotme" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    </a>
+    <a href="https://www.codechef.com/users/codernotme" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    </a>
+    <a href="https://atcoder.jp/users/codernotme" target="_blank">
+      <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+    </a>
+  </p>
 </div>
 
 <!-- Enhanced Stats Grid -->
 <div align="center">
-  <h3>📊 Platform Statistics & Achievements</h3>
-  
   <table>
     <tr>
       <td align="center" width="50%">
         <h3>🎯 LeetCode Journey</h3>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FFA116&center=true&vCenter=true&width=300&lines=💡+Problem+solving+expert;🏆+Contest+performer;⚡+Algorithm+enthusiast" alt="LeetCode Intro" />
         <a href="https://leetcode.com/u/codernotme/" target="_blank">
           <img src="https://leetcard.jacoblin.cool/codernotme?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats" width="100%"/>
         </a>
         <br><br>
         <img src="https://leetcode-stats-six.vercel.app/api?username=codernotme&theme=dark" alt="LeetCode Stats Alternative" width="90%"/>
         <br><br>
-        <!-- Enhanced LeetCode Badges with Animations -->
+        <!-- LeetCode Badges -->
         <p>
-          <img src="https://img.shields.io/badge/Problems_Solved-350%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000" alt="Problems"/>
-          <img src="https://img.shields.io/badge/Contest_Rating-1650%2B-FFA116?style=for-the-badge&logo=trophy&logoColor=white&labelColor=000" alt="Rating"/>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Weekly_Contests-25%2B-orange?style=for-the-badge&logo=calendar&logoColor=white" alt="Weekly"/>
-          <img src="https://img.shields.io/badge/Acceptance_Rate-75%25-success?style=for-the-badge&logo=checkmark&logoColor=white" alt="Acceptance"/>
+          <img src="https://img.shields.io/badge/Problems_Solved-350%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems"/>
+          <img src="https://img.shields.io/badge/Contest_Rating-1650%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rating"/>
         </p>
       </td>
       <td align="center" width="50%">
-        <h3>🏅 HackerRank Mastery</h3>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=2EC866&center=true&vCenter=true&width=300&lines=⭐+5-star+achiever;🎖️+Domain+expert;🚀+Skill+certified" alt="HackerRank Intro" />
-        
-        <br><br>
-        
+        <h3>🏅 HackerRank Achievements</h3>
         <a href="https://www.hackerrank.com/profile/cs_2201641520203" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=codernotme&repo=hackerrank-solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2EC866&text_color=ffffff" alt="HackerRank Solutions" width="100%"/>
         </a>
         <br><br>
-        
-        <!-- Enhanced HackerRank Stats with Visual Appeal -->
-        <div align="center">
-          <h4>🎖️ Domain Expertise & Certifications</h4>
-          <table style="width: 100%;">
-            <tr>
-              <td align="left">⭐ <b>Problem Solving:</b></td>
-              <td align="right">⭐⭐⭐⭐⭐ 5-star</td>
-            </tr>
-            <tr>
-              <td align="left">🐍 <b>Python:</b></td>
-              <td align="right">⭐⭐⭐⭐⭐ 5-star</td>
-            </tr>
-            <tr>
-              <td align="left">☕ <b>Java:</b></td>
-              <td align="right">⭐⭐⭐⭐ 4-star</td>
-            </tr>
-            <tr>
-              <td align="left">💾 <b>SQL:</b></td>
-              <td align="right">⭐⭐⭐⭐ 4-star</td>
-            </tr>
-            <tr>
-              <td align="left">🏗️ <b>Data Structures:</b></td>
-              <td align="right">⭐⭐⭐⭐ 4-star</td>
-            </tr>
-            <tr>
-              <td align="left">🧮 <b>Algorithms:</b></td>
-              <td align="right">⭐⭐⭐⭐ 4-star</td>
-            </tr>
-          </table>
+        <!-- HackerRank Stats -->
+        <div align="left" style="margin: 20px;">
+          <h4>🎖️ Domain Expertise:</h4>
+          <p>
+            ⭐ <b>Problem Solving:</b> 5-star ⭐⭐⭐⭐⭐<br>
+            🐍 <b>Python:</b> 5-star ⭐⭐⭐⭐⭐<br>
+            ☕ <b>Java:</b> 4-star ⭐⭐⭐⭐<br>
+            💾 <b>SQL:</b> 4-star ⭐⭐⭐⭐<br>
+            🔢 <b>Mathematics:</b> 3-star ⭐⭐⭐<br>
+            🏗️ <b>Data Structures:</b> 4-star ⭐⭐⭐⭐<br>
+            🧮 <b>Algorithms:</b> 4-star ⭐⭐⭐⭐
+          </p>
         </div>
         <br>
-        <!-- HackerRank Achievement Badges -->
+        <!-- HackerRank Badges -->
         <p>
-          <img src="https://img.shields.io/badge/Gold_Badges-15%2B-FFD700?style=for-the-badge&logo=medal&logoColor=black" alt="Gold Badges"/>
-          <img src="https://img.shields.io/badge/Silver_Badges-25%2B-C0C0C0?style=for-the-badge&logo=medal&logoColor=black" alt="Silver Badges"/>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Certificates-8%2B-2EC866?style=for-the-badge&logo=certificate&logoColor=white" alt="Certificates"/>
-          <img src="https://img.shields.io/badge/Skills_Verified-12%2B-blue?style=for-the-badge&logo=verified&logoColor=white" alt="Skills"/>
+          <img src="https://img.shields.io/badge/Gold_Badges-15%2B-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Gold Badges"/>
+          <img src="https://img.shields.io/badge/Silver_Badges-25%2B-C0C0C0?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Silver Badges"/>
         </p>
       </td>
     </tr>
@@ -579,35 +543,58 @@
 
 <!-- Coding Achievement Summary -->
 <div align="center">
-    <h3><b>Operating Systems</b></h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS" height="40">
+  <h3>📊 Overall Coding Statistics</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Problems_Solved-800%2B-00d4ff?style=for-the-badge&logo=target&logoColor=white" alt="Total Problems"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Contest_Participations-50%2B-purple?style=for-the-badge&logo=trophy&logoColor=white" alt="Contests"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Top_Contest_Rank-150-gold?style=for-the-badge&logo=medal&logoColor=white" alt="Best Rank"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coding_Streak-100%2B_Days-success?style=for-the-badge&logo=fire&logoColor=white" alt="Streak"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Programming Skills Progress -->
+  <h3>🎯 Problem Solving Skills</h3>
+  <div align="left" style="max-width: 600px; margin: 0 auto;">
+    
+| Skill Category | Progress | Level |
+|----------------|----------|-------|
+| 🔢 Array & Strings | ![95%](https://progress-bar.dev/95?color=00d4ff) | Expert |
+| 🌳 Trees & Graphs | ![90%](https://progress-bar.dev/90?color=00d4ff) | Expert |
+| ⚡ Dynamic Programming | ![85%](https://progress-bar.dev/85?color=FFA116) | Advanced |
+| 🔍 Searching & Sorting | ![92%](https://progress-bar.dev/92?color=00d4ff) | Expert |
+| 🧮 Mathematics | ![80%](https://progress-bar.dev/80?color=2EC866) | Advanced |
+| 🎯 Greedy Algorithms | ![88%](https://progress-bar.dev/88?color=00d4ff) | Expert |
+| 🔗 Linked Lists | ![94%](https://progress-bar.dev/94?color=00d4ff) | Expert |
+| 📊 Stack & Queue | ![91%](https://progress-bar.dev/91?color=00d4ff) | Expert |
+
+  </div>
+  
+  <!-- Competitive Programming Journey -->
+  <h3>🚀 My Competitive Programming Journey</h3>
+  <p><i>Started coding in 2021 • Solved 800+ problems • Participated in 50+ contests • Always learning! 📈</i></p>
+  
+  <!-- Achievement Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/🏆_Top_10%25-LeetCode_Weekly-FFA116?style=for-the-badge" alt="LeetCode Achievement"/>
+    <img src="https://img.shields.io/badge/🥇_5_Star-Problem_Solving-2EC866?style=for-the-badge" alt="HackerRank Achievement"/>
+    <img src="https://img.shields.io/badge/🎯_Expert-Specialist-1F8ACB?style=for-the-badge" alt="Codeforces Achievement"/>
+    <img src="https://img.shields.io/badge/⭐_3_Star-Cook-5B4638?style=for-the-badge" alt="CodeChef Achievement"/>
+  </p>
 </div>
 
-<hr>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- About me  -->
-
-```js
-AboutMe = {
-  bio: "Passionate about creating seamless and powerful web solutions, focusing on frontend elegance and backend efficiency.",
-  mission:
-    "Leveraging Python and AI, I aim to push the boundaries of web technologies to build memorable digital experiences.",
-  expertise:
-    "With a strong foundation in Next.js, Golang, and DevOps, I seamlessly blend creativity and functionality to craft innovative solutions.",
-  identity:
-    "I am more than a student; I am a creator, a problem solver, and a developer with a drive to make an impact.",
-  callToAction:
-    "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨",
-};
-```
-
-<hr>
-<div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-
+<!-- GitHub Metrics -->
 <details>
 <summary><h2>📈 Detailed GitHub Metrics</h2></summary>
 
@@ -616,8 +603,10 @@ AboutMe = {
 |                                  Overview                                  |                          Follow up Issues & PRs                           |
 | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 | ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) |       ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg)       |
-|                                Achievements                                |                                 Reactions                                 |
-|          ![Achievements](assets/metrics.plugin.achievements.svg)           |             ![Reactions](assets/metrics.plugin.reactions.svg)             |
+|                                Achievements                                |                             Language Activity                             |
+|          ![Achievements](assets/metrics.plugin.achievements.svg)           |    ![Language Activity](assets/metrics.plugin.languages.activity.svg)     |
+|                                Discussions                                 |                                 Reactions                                 |
+|           ![Discussions](assets/metrics.plugin.discussions.svg)            |             ![Reactions](assets/metrics.plugin.reactions.svg)             |
 
 </div>
 </details>
@@ -651,13 +640,10 @@ AboutMe = {
 
 <!-- Enhanced Snake Game Section -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="35" alt="Snake"/>
-    🐍 Snake Game - My GitHub Contributions
-    <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="35" alt="Snake"/>
-  </h2>
+  <h2>🐍 Snake Game - Watch My Contributions Get Eaten!</h2>
+  <p><i>This snake represents my GitHub contribution graph - it gets updated daily!</i></p>
   
-  <!-- Enhanced Snake Animation -->
+  <!-- Snake Animation with fallback -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codernotme/codernotme/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codernotme/codernotme/output/github-contribution-grid-snake-light.svg">
@@ -665,11 +651,22 @@ AboutMe = {
   </picture>
   
   <!-- Alternative Snake if the above doesn't work -->
+  <br><br>
   <details>
-  <summary>🎮 Alternative Contribution Visualizations</summary>
+  <summary>🎮 Alternative Contribution Snake</summary>
   <br>
   <img src="https://github.com/codernotme/codernotme/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
   </details>
+  
+  <p><sub>🔄 Snake updates automatically every 24 hours via GitHub Actions</sub></p>
+</div>
+
+<!-- Interactive Contribution Stats -->
+<div align="center">
+  <h3>📈 Contribution Insights</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernotme&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="70%"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codernotme&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&custom_title=My%20Contribution%20Journey" width="95%"/>
 </div>
 
 <!-- Enhanced Footer with more interactivity -->
@@ -736,7 +733,23 @@ AboutMe = {
   
   <br>
   
-  <!-- Final Message -->
+  <!-- Business Stats -->
+  <h3>📈 Business & Impact</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Clients_Served-20%2B-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Clients"/>
+    <img src="https://img.shields.io/badge/Projects_Delivered-35%2B-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+    <img src="https://img.shields.io/badge/Years_Experience-3%2B-orange?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
+    <img src="https://img.shields.io/badge/Team_Size-4-purple?style=for-the-badge&logo=users&logoColor=white" alt="Team"/>
+  </p>
+  
+  <br>
+  
+  <!-- GitHub Activity -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codernotme&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Journey" width="100%"/>
+  
+  <br><br>
+  
+  <!-- Startup Message -->
   <h3>🚀 From Code to Company</h3>
   <p>
     <b>💡 "Started as a developer, evolved into an entrepreneur"</b><br>
@@ -747,7 +760,8 @@ AboutMe = {
   <!-- Support Section -->
   <p>
     <b>⭐ If you like my work, consider:</b><br>
-    🌟 Starring my repositories • 🤝 Connecting on LinkedIn • 💼 Checking out Tackle Studioz • 📧 Reaching out for collaborations<br>
+    🌟 Starring my repositories<br>
+    🤝 Connecting on LinkedIn<br>
     💼 Checking out Tackle Studioz<br>
     📧 Reaching out for collaborations<br>
     <i>Every connection and star motivates me to create more awesome projects! 🚀</i>
