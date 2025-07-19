@@ -1,60 +1,23 @@
-<!-- Hero Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Bajpai&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%2        <h3>💬 Discord Community</h3>Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=62"/>
+<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwODVuaHA2ZWphNHF0bXd4ajRoZHlmYmhyMWxjeGdtODB0NjY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9USGRzPcxz9E6gknjL/giphy.webp" width="25%" style="margin-right: 10px;">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwODVuaHA2ZWphNHF0bXd4ajRoZHlmYmhyMWxjeGdtODB0NjY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9USGRzPcxz9E6gknjL/giphy.webp" width="25%" style="margin-left: 10px;">
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Aryan's Icon -->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div style="clear: both;">
+    <div align="center">
+        <a href="https://github.com/codernotme">
+            <img src="codernotme.png" height="400" alt="Aryan's Icon" />
+        </a>
+    </div>
 </div>
 
-<!-- Profile Image with enhanced styling -->
-<div align="center">
-  <img src="https://github.com/codernotme.png" alt="Aryan Bajpai" width="200" height="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 30px rgba(0, 212, 255, 0.6); transition: transform 0.3s ease;"/>
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👋+Hey!+I'm+Aryan+Bajpai;🚀+Full+Stack+Developer+%26+AI+Enthusiast;💼+Founder+%40+Tackle+Studioz;🎯+800%2B+Problems+Solved+%7C+3%2B+Years+Experience" alt="Intro Animation" />
-</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Aryan's Profile Bar -->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<!-- GitHub Stats & Profile Overview -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- Main GitHub Widget -->
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=codernotme&data=followers,repositories,stars,commits&theme=dark&border_radius=10" alt="GitHub WidgetBox" width="85%" />
-  
-  <br><br>
-  
-  <!-- Detailed Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codernotme&theme=tokyonight" alt="Profile Summary" width="80%"/>
-  
-  <br><br>
-  
-  <!-- Achievement Counters -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Problems_Solved-800%2B-00d4ff?style=for-the-badge&logo=target&logoColor=white" alt="Problems"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Contest_Participations-50%2B-purple?style=for-the-badge&logo=trophy&logoColor=white" alt="Contests"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Open_Source_Projects-20%2B-orange?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Years_Experience-3%2B-success?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Social Connect & Platforms -->
-<div align="center">
-  <h2>🌐 Connect & Collaborate</h2>
-  
-  <!-- Main Social Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/codernotme/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:aryanbajpai2411@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
+<div align="center" style="margin: 20px 0;">
     <a href="https://codernotme.me" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
@@ -144,59 +107,21 @@
   </table>
 </div>
 
-### 📊 Quick Stats
-```javascript
-const aryan = {
-    name: "Aryan Bajpai",
-    role: "Full Stack Developer & Entrepreneur",
-    location: "India 🇮🇳",
-    company: "Tackle Studioz",
-    languages: ["JavaScript", "Python", "TypeScript", "C++"],
-    frameworks: ["React", "Next.js", "Django", "Express.js"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "AWS", "VS Code"],
-    currentFocus: "Building scalable web applications with modern tech stack",
-    startup: "Tackle Studioz - Innovative Tech Solutions",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- Intro -->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-</details>
+<h3 align="center">
+    <samp>
+        &gt; Hey There! I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/codernotme/">Aryan</a></b>
+    </samp>
+</h3>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Startup & Company Section -->
-<h2 align="center">🚀 My Startup Journey</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🏢 Tackle Studioz</h3>
-        <a href="http://tacklestudioz.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Website-00d4ff?style=for-the-badge&logo=globe&logoColor=white" alt="Tackle Studioz"/>
-        </a>
-        <p><i>Innovative Tech Solutions & Digital Transformation</i></p>
-        <ul style="text-align: left;">
-          <li>🎯 <b>Mission:</b> Empowering businesses with cutting-edge technology</li>
-          <li>💡 <b>Focus:</b> Web Development, AI Integration, Cloud Solutions</li>
-          <li>🌟 <b>Vision:</b> Making technology accessible and impactful</li>
-          <li>🎉 <b>Founded:</b> 2023 - Growing strong!</li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <h3>👨‍💼 My Role</h3>
-        <p><b>🎖️ Founder & Lead Developer</b></p>
-        <br>
-        <p>🔥 <b>What I Do:</b></p>
-        <ul style="text-align: left;">
-          <li>💻 Lead technical architecture decisions</li>
-          <li>👥 Manage development team</li>
-          <li>🎯 Drive product strategy & vision</li>
-          <li>🤝 Client relations & project delivery</li>
-          <li>📈 Business development & growth</li>
-        </ul>
+<!-- Search -->
+<p align="center"> 
+    <samp>
+        <a href="https://www.linkedin.com/in/codernotme/">「 Connect with me 」</a>
         <br>
         <a href="https://codernotme.me" target="_blank">
           <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
@@ -654,58 +579,35 @@ const aryan = {
 
 <!-- Coding Achievement Summary -->
 <div align="center">
-  <h3>📊 Overall Coding Statistics</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total_Problems_Solved-800%2B-00d4ff?style=for-the-badge&logo=target&logoColor=white" alt="Total Problems"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Contest_Participations-50%2B-purple?style=for-the-badge&logo=trophy&logoColor=white" alt="Contests"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Top_Contest_Rank-150-gold?style=for-the-badge&logo=medal&logoColor=white" alt="Best Rank"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Coding_Streak-100%2B_Days-success?style=for-the-badge&logo=fire&logoColor=white" alt="Streak"/>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Programming Skills Progress -->
-  <h3>🎯 Problem Solving Skills</h3>
-  <div align="left" style="max-width: 600px; margin: 0 auto;">
-    
-| Skill Category | Progress | Level |
-|----------------|----------|-------|
-| 🔢 Array & Strings | ![95%](https://progress-bar.dev/95?color=00d4ff) | Expert |
-| 🌳 Trees & Graphs | ![90%](https://progress-bar.dev/90?color=00d4ff) | Expert |
-| ⚡ Dynamic Programming | ![85%](https://progress-bar.dev/85?color=FFA116) | Advanced |
-| 🔍 Searching & Sorting | ![92%](https://progress-bar.dev/92?color=00d4ff) | Expert |
-| 🧮 Mathematics | ![80%](https://progress-bar.dev/80?color=2EC866) | Advanced |
-| 🎯 Greedy Algorithms | ![88%](https://progress-bar.dev/88?color=00d4ff) | Expert |
-| 🔗 Linked Lists | ![94%](https://progress-bar.dev/94?color=00d4ff) | Expert |
-| 📊 Stack & Queue | ![91%](https://progress-bar.dev/91?color=00d4ff) | Expert |
-
-  </div>
-  
-  <!-- Competitive Programming Journey -->
-  <h3>🚀 My Competitive Programming Journey</h3>
-  <p><i>Started coding in 2021 • Solved 800+ problems • Participated in 50+ contests • Always learning! 📈</i></p>
-  
-  <!-- Achievement Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/🏆_Top_10%25-LeetCode_Weekly-FFA116?style=for-the-badge" alt="LeetCode Achievement"/>
-    <img src="https://img.shields.io/badge/🥇_5_Star-Problem_Solving-2EC866?style=for-the-badge" alt="HackerRank Achievement"/>
-    <img src="https://img.shields.io/badge/🎯_Expert-Specialist-1F8ACB?style=for-the-badge" alt="Codeforces Achievement"/>
-    <img src="https://img.shields.io/badge/⭐_3_Star-Cook-5B4638?style=for-the-badge" alt="CodeChef Achievement"/>
-  </p>
+    <h3><b>Operating Systems</b></h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS" height="40">
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<hr>
 
-<!-- GitHub Metrics -->
+<!-- About me  -->
+
+```js
+AboutMe = {
+  bio: "Passionate about creating seamless and powerful web solutions, focusing on frontend elegance and backend efficiency.",
+  mission:
+    "Leveraging Python and AI, I aim to push the boundaries of web technologies to build memorable digital experiences.",
+  expertise:
+    "With a strong foundation in Next.js, Golang, and DevOps, I seamlessly blend creativity and functionality to craft innovative solutions.",
+  identity:
+    "I am more than a student; I am a creator, a problem solver, and a developer with a drive to make an impact.",
+  callToAction:
+    "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨",
+};
+```
+
+<hr>
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+
 <details>
 <summary><h2>📈 Detailed GitHub Metrics</h2></summary>
 
@@ -714,10 +616,8 @@ const aryan = {
 |                                  Overview                                  |                          Follow up Issues & PRs                           |
 | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 | ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) |       ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg)       |
-|                                Achievements                                |                             Language Activity                             |
-|          ![Achievements](assets/metrics.plugin.achievements.svg)           |    ![Language Activity](assets/metrics.plugin.languages.activity.svg)     |
-|                                Discussions                                 |                                 Reactions                                 |
-|           ![Discussions](assets/metrics.plugin.discussions.svg)            |             ![Reactions](assets/metrics.plugin.reactions.svg)             |
+|                                Achievements                                |                                 Reactions                                 |
+|          ![Achievements](assets/metrics.plugin.achievements.svg)           |             ![Reactions](assets/metrics.plugin.reactions.svg)             |
 
 </div>
 </details>
