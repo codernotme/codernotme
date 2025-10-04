@@ -10,6 +10,7 @@
   <img src="https://github.com/codernotme.png" alt="Aryan Bajpai" width="160" height="160" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 24px rgba(0, 212, 255, 0.45);" />
 </div>
 
+
 <!-- Short intro typing -->
 
 <div align="center">
@@ -86,6 +87,7 @@ const aryan = {
 * 💡 Open-source maintainer
 * 🎯 Competitive programming enthusiast
 
+[![An image of @codernotme's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codernotme)](https://holopin.io/@codernotme)
 ---
 
 <div align="center">
